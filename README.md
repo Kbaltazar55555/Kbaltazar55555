@@ -1,4 +1,6 @@
-### Hi there 👋, I'm Kenneth 
+### Hi there 👋, I'm Kenneth,
+I'm a subject matter expert in Data Governance and Customer Success.  
+I am ex-Tableau / ex-Salesforce and  looking to further develop my skillsets as a technical program manager and as a software engineer.  Looking to collaborate and listen from others that come equipped with a diverse set of expereinces and backgrounds. You can reach out to me directly via LinkedIn - https://www.linkedin.com/in/ktbnts/
 
 <!--
 **Kbaltazar55555/Kbaltazar55555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
